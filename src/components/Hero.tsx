@@ -29,8 +29,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-gray-200 mb-10 max-w-3xl mx-auto leading-relaxed">
-            EV Managers syncs your power usage with eGauge data and Wevo control to ensure 
-            safe, optimized charging — every day.
+            EV Managers syncs your power usage with real-time electrical load data and intelligent charger control to ensure safe, optimized charging — every day.  
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
