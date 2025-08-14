@@ -5,8 +5,7 @@ const Showcase = () => {
   const showcaseItems = [
     {
       title: "Real-Time Load Monitoring",
-      description: " Our advanced panel-mounted monitoring hardware continuously tracks your building's electrical load in real-time, automatically adjusting EV charging load to prevent circuit overloads and ensure safe operation of all your critical systems.  
-",
+      description: " Our advanced panel-mounted monitoring hardware continuously tracks your building's electrical load in real-time, automatically adjusting EV charging load to prevent circuit overloads and ensure safe operation of all your critical systems.",
       image: "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=800",
       icon: Activity,
       textRight: false
