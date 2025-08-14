@@ -11,7 +11,7 @@ const FAQ = () => {
     },
     {
       question: "What equipment do I need for installation?",
-      answer: "You'll need eGauge monitoring hardware installed at your main electrical panel and compatible EV chargers with load management capabilities. Our team handles all hardware specification and installation coordination."
+      answer: "You'll need an existing electrical panel and breakers. Our team will install all necessary monitoring hardware and load management components, seamlessly integrating them with your infrastructure. We also provide compatible software to ensure safe, optimized EV charging across your site."
     },
     {
       question: "Is the system compatible with all EV chargers?",
